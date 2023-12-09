@@ -1,0 +1,7 @@
+/dist
+/build
+/.gradle
+
+/.vscode
+/.idea
+*.iml
